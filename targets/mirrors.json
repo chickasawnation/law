@@ -1,0 +1,6 @@
+{
+  "mirrors": [
+    "git@github.com:chickasawnation/{repo_name}.git",
+    "https://github.com/chickasawnation/{repo_name}"
+  ]
+}
